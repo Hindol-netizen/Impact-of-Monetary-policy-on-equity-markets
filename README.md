@@ -16,3 +16,10 @@ Findings:
 - Equity markets are not highly vulnerable to domestic monetary policy shocks.  
 - Sectoral and regime-specific differences exist.  
 - Global factors and structural breaks strongly shape the outcomes.
+
+## 🛠️ Tools & Methodology
+- **Python** & **EViews** for econometric analysis  
+- **ARDL-ECM framework**  
+- **Bai-Perron structural break test**  
+- ADF test for stationarity  
+- VIF test for multicollinearity  
